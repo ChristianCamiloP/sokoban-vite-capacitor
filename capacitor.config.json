@@ -1,0 +1,6 @@
+{
+  "appId": "com.christian.triki",
+  "appName": "triki",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
